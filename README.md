@@ -36,8 +36,7 @@ And to also:
 
 ## The Guard.net Network
 
-
-<img width="1636" height="1341" alt="Network Chart" src="https://github.com/user-attachments/assets/cf34f40a-5a8f-43ca-83e3-97e551601f5d" />
+<img width="1543" height="800" alt="Network Chart (1)" src="https://github.com/user-attachments/assets/5a020b4e-8593-43c9-bd07-1b49994711f3" />
 
 The steps to actually creating an internal Virtual network on a another network inside a proxox thats on another network was actually quite to solve and figure out.
 
