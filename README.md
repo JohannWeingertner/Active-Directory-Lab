@@ -71,6 +71,7 @@ And then after rebooting we can see the changes.
 I chose lab.guard.net since my 10.0.0.0/24 network uses guard.net.
 
 Then the next step is to actually get a pc to join this domain controller. I proceeded to provision and configure the windows 10 pc.
+
 <img width="323" height="449" alt="Screenshot 2026-01-20 at 11 19 09 PM" src="https://github.com/user-attachments/assets/72da5430-68b6-4b86-9c5d-6e6eed5ddc8a" />
 
 <img width="446" height="355" alt="Screenshot 2026-01-20 at 11 23 33 PM" src="https://github.com/user-attachments/assets/6a5e9c9b-d3b2-45b4-b7c0-eeebb69aae72" />
