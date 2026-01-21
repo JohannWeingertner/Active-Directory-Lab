@@ -34,5 +34,8 @@ And to also:
 - Deploy member servers with enterprise roles and applications
 - Set up client workstations for end-user simulation
 
-## Network Design
-Now we have to understand what my network looks like:
+## The Guard.net Network
+![Tg_230661_02](https://github.com/user-attachments/assets/bf39c211-24b4-4354-b0ac-3e2394105b8c)
+
+---
+
