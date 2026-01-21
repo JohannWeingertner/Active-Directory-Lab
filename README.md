@@ -1,5 +1,7 @@
 <img width="2500" height="415" alt="image" src="https://github.com/user-attachments/assets/b59c5e80-a6a6-4f13-92e4-6902f5da6eb2" />
 
+This lab was developed through independent research and self-directed learning, deliberately avoiding step-by-step Active Directory tutorial videos. I maintained a minimal reliance on YouTube content
+
 ---
 # Microsoft Active Directory Lab
 
@@ -33,3 +35,4 @@ And to also:
 - Set up client workstations for end-user simulation
 
 ## Network Design
+Now we have to understand what my network looks like:
