@@ -1,3 +1,10 @@
+<img width="2500" height="415" alt="image" src="https://github.com/user-attachments/assets/b59c5e80-a6a6-4f13-92e4-6902f5da6eb2" />
+
+
+
+
+
+
 #The Goal of This Lab
 The overall goal of this lab is to create a permanent Active Directory environment on my Proxmox nodes. I want to use this AD network for:
 
