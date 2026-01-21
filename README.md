@@ -94,6 +94,29 @@ Now for our next and final step for this lab document is to create a Domain acco
 
 <img width="323" height="278" alt="Screenshot 2026-01-20 at 11 58 37 PM" src="https://github.com/user-attachments/assets/f77f64d3-7a33-47eb-8afe-cbc5a10ec647" />
 
+Then I login to the account on PC01.lab.guard.net.
+
+<img width="736" height="552" alt="Screenshot 2026-01-21 at 12 03 10 AM" src="https://github.com/user-attachments/assets/e0df6343-41c6-47c1-9d93-b127a6f0ed97" />
+
+<img width="724" height="527" alt="Screenshot 2026-01-21 at 12 04 20 AM" src="https://github.com/user-attachments/assets/34ebbd41-ae0f-43f8-b8c2-2162d37d8cc9" />
+
+Ok, now since I logged in, lets perform the regular help desk task of resetting this users password. 
+
+<img width="411" height="318" alt="Screenshot 2026-01-21 at 12 07 41 AM" src="https://github.com/user-attachments/assets/364733da-3c3b-47c1-9128-dd9c64e08004" />
+
+<img width="279" height="193" alt="Screenshot 2026-01-21 at 12 08 13 AM" src="https://github.com/user-attachments/assets/7cd326e4-46a0-4c23-8f28-15a3dcbdc759" />
+
+Now lets see the effects. 
+
+<img width="709" height="523" alt="Screenshot 2026-01-21 at 12 09 16 AM" src="https://github.com/user-attachments/assets/5dc2a6f8-d677-4cfd-a6f6-272989c63a7c" />
+
+<img width="357" height="379" alt="Screenshot 2026-01-21 at 12 10 35 AM" src="https://github.com/user-attachments/assets/bdb73378-c579-4102-bb40-413da5fb7237" />
+
+Task Done.
+
+My next goal involves building a professional, secured Active Directory environment through structured organizational units (OUs), comprehensive security policies, systematic directory organization and also deploying hundreds of Domain Accounts through scripts.
+
+(WIP)
 
 ## Attribations:
 Wireless router icons created by Nueng_wana
