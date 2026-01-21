@@ -54,6 +54,26 @@ I then configured and assigned the correct ip addresses for communication betwee
 
 <img width="435" height="185" alt="Screenshot 2026-01-20 at 11 01 57 PM" src="https://github.com/user-attachments/assets/11bb182c-295a-415e-8061-7a4a69e6b295" />
 
+The next step for me was to create a windows server VM. I chose windows 2022. To setup a vm of any windows vm on proxmox, is to download virtio drivers for windows from Redhat, and to install the actual windows iso image with the virtio drivers.
+
+After pprovision the windows server, I then started configuring the windows server to becoming a Domain Controller.
+
+<img width="735" height="550" alt="Screenshot 2026-01-20 at 9 25 13 PM" src="https://github.com/user-attachments/assets/b9d28c23-1a43-40a8-a517-036d27bbab6e" />
+
+<img width="547" height="401" alt="Screenshot 2026-01-20 at 9 31 07 PM" src="https://github.com/user-attachments/assets/39fc5aa4-91b1-4368-9d33-f59529fa521c" />
+
+And then after rebooting we can see the changes.
+
+<img width="733" height="539" alt="Screenshot 2026-01-20 at 11 11 45 PM" src="https://github.com/user-attachments/assets/f4dd81be-7eaf-4199-a95c-0607ea9cc38b" />
+
+<img width="712" height="464" alt="Screenshot 2026-01-20 at 11 11 30 PM" src="https://github.com/user-attachments/assets/b6ac0762-6b05-4db0-bd34-4e94ad02523c" />
+
+I chose lab.guard.net since my 10.0.0.0/24 network uses guard.net.
+
+
+
+
+
 
 
 ## Attribations:
