@@ -70,6 +70,24 @@ And then after rebooting we can see the changes.
 
 I chose lab.guard.net since my 10.0.0.0/24 network uses guard.net.
 
+Then the next step is to actually get a pc to join this domain controller. I proceeded to provision and configure the windows 10 pc.
+<img width="323" height="449" alt="Screenshot 2026-01-20 at 11 19 09 PM" src="https://github.com/user-attachments/assets/72da5430-68b6-4b86-9c5d-6e6eed5ddc8a" />
+
+<img width="446" height="355" alt="Screenshot 2026-01-20 at 11 23 33 PM" src="https://github.com/user-attachments/assets/6a5e9c9b-d3b2-45b4-b7c0-eeebb69aae72" />
+
+<img width="453" height="360" alt="Screenshot 2026-01-20 at 11 39 20 PM" src="https://github.com/user-attachments/assets/85041057-5ac4-4a14-8388-19319b2bfd63" />
+
+<img width="456" height="357" alt="Screenshot 2026-01-20 at 11 40 35 PM" src="https://github.com/user-attachments/assets/33da51b2-f5d6-4582-9f0c-2fcf730fc444" />
+
+<img width="326" height="170" alt="Screenshot 2026-01-20 at 11 40 59 PM" src="https://github.com/user-attachments/assets/21a8e5ed-bb31-4a57-a956-0b498869365f" />
+
+<img width="457" height="364" alt="Screenshot 2026-01-20 at 11 41 38 PM" src="https://github.com/user-attachments/assets/de64ef72-99e5-4ebb-a982-567d6c267533" />
+
+I had an issue with logging in because I didn't set the DNS settings of this to the Domain Controller, so I had to do that before any of this.
+
+
+
+
 
 
 
