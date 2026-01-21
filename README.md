@@ -35,7 +35,14 @@ And to also:
 - Set up client workstations for end-user simulation
 
 ## The Guard.net Network
-![Tg_230661_02](https://github.com/user-attachments/assets/bf39c211-24b4-4354-b0ac-3e2394105b8c)
 
----
+
+<img width="1636" height="1341" alt="Network Chart" src="https://github.com/user-attachments/assets/cf34f40a-5a8f-43ca-83e3-97e551601f5d" />
+
+The steps to actually creating an internal Virtual network on a another network inside a proxox thats on another network was actually quite to solve and figure out.
+
+## Attribations:
+Wireless router icons created by Nueng_wana
+Computer icons created by Hilmy Abiyyu A.
+
 
