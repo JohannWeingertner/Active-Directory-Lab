@@ -21,7 +21,7 @@ The overall goal of this lab is to create a permanent Active Directory environme
 The primary objective is to deploy an Active Directory network on another etwork segment within my Proxmox environment. This design serves two key purposes:
 
 1. **Security Isolation** - Utilize an OPNsense router to enforce strict traffic control, enabling me to:
-   - Selectively block or permit traffic between networks whenever I want.
+   - Selectively block or permit traffic between networks whenever I want
    - Safely conduct penetration testing exercises in a controlled environment
    - Isolate lab activities from my primary network whenever I deem fit
 
@@ -32,9 +32,9 @@ The primary objective is to deploy an Active Directory network on another etwork
 
 And to also:
 
-- Build a realistic Active Directory domain on an isolated network segment
-- Deploy member servers with enterprise roles and applications
+- Deploy domain controller server
 - Set up client workstations for end-user simulation
+- Perform a password reset for a domain user
 
 ## The Guard.net Network
 
@@ -85,13 +85,14 @@ Then the next step is to actually get a pc to join this domain controller. I pro
 
 I had an issue with logging in because I didn't set the DNS settings of this to the Domain Controller, so I had to do that before any of this.
 
+Now after restarting, we can see the changes.
+<img width="1186" height="595" alt="Screenshot 2026-01-20 at 11 44 04 PM" src="https://github.com/user-attachments/assets/89aeb915-1df1-4cb4-a3b5-5aab11df6b0b" />
 
+<img width="756" height="562" alt="Screenshot 2026-01-20 at 11 48 18 PM" src="https://github.com/user-attachments/assets/fd52771c-b8f2-407a-8653-5958471814fa" />
 
+Now for our next and final step for this lab document is to create a Domain account and reset the password.
 
-
-
-
-
+<img width="323" height="278" alt="Screenshot 2026-01-20 at 11 58 37 PM" src="https://github.com/user-attachments/assets/f77f64d3-7a33-47eb-8afe-cbc5a10ec647" />
 
 
 ## Attribations:
